@@ -3,7 +3,7 @@
 # init wallpaper daemon
 swww init &
 # setting wallpaper
-# swww img ~/Wallpapers/gruvbox-mountain-village.png &
+swww img ~/Wallpapers/seasunrise.jpg &
 
 nm-applet --indicator &
 
