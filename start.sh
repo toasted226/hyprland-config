@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 # init wallpaper daemon
-swww init &
+swww-daemon &
 # setting wallpaper
-swww img ~/Wallpapers/seasunrise.jpg &
+swww img ~/Wallpapers/retrostylecar.jpg &
 
 nm-applet --indicator &
 
