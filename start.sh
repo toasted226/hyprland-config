@@ -3,7 +3,7 @@
 # init wallpaper daemon
 swww-daemon &
 # setting wallpaper
-swww img ~/Wallpapers/retrostylecar.jpg &
+swww img ~/wallpapers/retrostylecar.jpg &
 
 nm-applet --indicator &
 
